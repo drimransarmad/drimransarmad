@@ -1,16 +1,35 @@
-## Hi there 👋
+# Dr. Imran Sarmad
 
-<!--
-**drimransarmad/drimransarmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PhD Statistical Consultant | Advanced Quantitative Modeling (R, Mplus)**
 
-Here are some ideas to get you started:
+I help researchers, academic authors, doctoral candidates, and organizations turn complex data into statistically sound, interpretable, and publication-ready results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on selecting defensible analytical strategies, evaluating assumptions carefully, and producing results that can hold under peer review, supervisor review, or stakeholder scrutiny.
+
+## Core Areas
+
+* Latent Profile Analysis (LPA) and Latent Class Analysis (LCA)
+* Structural Equation Modeling (SEM) and Confirmatory Factor Analysis (CFA)
+* Mixture modeling, covariates, and distal outcomes
+* Causal inference and observational-study interpretation
+* Clinical, real-world evidence (RWE), and health-research modeling
+* Econometrics, simulation, and statistical validation
+
+## Tools
+
+* **Primary:** R, Mplus, Stata, SPSS
+* **Supporting capabilities:** Python statistical computing and interpretable machine learning
+
+## Featured Python Project
+
+### Predicting 30-Day Hospital Readmission Among Patients With Diabetes
+
+An interpretable machine-learning workflow emphasizing patient-level leakage prevention, protected test-set evaluation, probability calibration, and clinically meaningful risk interpretation.
+
+* [View the GitHub repository](https://github.com/drimransarmad/diabetes-readmission-prediction-python)
+* [View the fully rendered Jupyter Notebook](https://nbviewer.org/github/drimransarmad/diabetes-readmission-prediction-python/blob/main/Diabetes_Readmission_Prediction_Project.ipynb)
+
+## Professional Links
+
+* [Website](https://drimransarmad.com)
+* [LinkedIn](https://www.linkedin.com/in/dr-imran-sarmad/)
