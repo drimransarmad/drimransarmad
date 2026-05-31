@@ -29,6 +29,13 @@ An interpretable machine-learning workflow emphasizing patient-level leakage pre
 * [View the GitHub repository](https://github.com/drimransarmad/diabetes-readmission-prediction-python)
 * [View the fully rendered Jupyter Notebook](https://nbviewer.org/github/drimransarmad/diabetes-readmission-prediction-python/blob/main/Diabetes_Readmission_Prediction_Project.ipynb)
 
+## Probabilistic Cost-Effectiveness Analysis for Health Technology Assessment
+
+A transparent HTA-style decision-modeling workflow comparing standard care with a hypothetical new intervention. The project demonstrates deterministic cost-effectiveness analysis, net monetary benefit, Monte Carlo probabilistic sensitivity analysis, a cost-effectiveness plane, a CEAC, scenario analysis, and reproducible CSV and JSON exports.
+
+* [View the GitHub repository](https://github.com/drimransarmad/hta-probabilistic-cost-effectiveness-python)
+* [Open the complete notebook in Google Colab](https://colab.research.google.com/github/drimransarmad/hta-probabilistic-cost-effectiveness-python/blob/main/HTA_Probabilistic_Cost_Effectiveness_Project.ipynb)
+
 ## Professional Links
 
 * [Website](https://drimransarmad.com)
