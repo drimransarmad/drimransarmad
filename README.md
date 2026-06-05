@@ -37,6 +37,12 @@ A transparent HEOR/HTA decision-modeling workflow comparing two strategies throu
 * [View the GitHub repository](https://github.com/drimransarmad/hta-probabilistic-cost-effectiveness-python)
 * [View the fully rendered Jupyter Notebook](https://nbviewer.org/github/drimransarmad/hta-probabilistic-cost-effectiveness-python/blob/main/HTA_Probabilistic_Cost_Effectiveness_Project.ipynb)
 
+### Estimating the Effect of Early Right Heart Catheterization on 30-Day Mortality
+
+A reproducible clinical/RWE causal-inference workflow using observational data, stabilized IPTW, doubly robust AIPW, overlap diagnostics, covariate-balance assessment, bootstrap uncertainty analysis, and sensitivity checks.
+
+* [View the GitHub repository](https://github.com/drimransarmad/causal-inference-rwe-python)
+* [View the fully rendered Jupyter Notebook](https://nbviewer.org/github/drimransarmad/causal-inference-rwe-python/blob/main/Causal_Inference_RWE_Python.ipynb)
 
 ## Professional Links
 
