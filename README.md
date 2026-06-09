@@ -44,6 +44,13 @@ A reproducible clinical/RWE causal-inference workflow using observational data, 
 * [View the GitHub repository](https://github.com/drimransarmad/causal-inference-rwe-python)
 * [View the fully rendered Jupyter Notebook](https://nbviewer.org/github/drimransarmad/causal-inference-rwe-python/blob/main/Causal_Inference_RWE_Python.ipynb)
 
+### Survival and Competing-Risk Analysis for Clinical Research
+
+A reproducible clinical time-to-event workflow using Kaplan–Meier estimation, Cox proportional-hazards modeling, Schoenfeld-residual diagnostics, covariate-standardized survival curves, Aalen–Johansen cumulative incidence, cause-specific hazard modeling, and competing-risk sensitivity analysis.
+
+* [View the GitHub repository](https://github.com/drimransarmad/survival-competing-risk-clinical-python)
+* [View the fully rendered Jupyter Notebook](https://nbviewer.org/github/drimransarmad/survival-competing-risk-clinical-python/blob/main/Survival_Competing_Risk_Clinical_Python.ipynb)
+
 ## Professional Links
 
 * [Website](https://drimransarmad.com)
