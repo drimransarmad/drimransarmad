@@ -51,6 +51,13 @@ A reproducible clinical time-to-event workflow using Kaplan–Meier estimation, 
 * [View the GitHub repository](https://github.com/drimransarmad/survival-competing-risk-clinical-python)
 * [View the fully rendered Jupyter Notebook](https://nbviewer.org/github/drimransarmad/survival-competing-risk-clinical-python/blob/main/Survival_Competing_Risk_Clinical_Python.ipynb)
 
+## Longitudinal Bilirubin Trajectories Using Linear Mixed-Effects Models
+
+A reproducible longitudinal clinical modeling workflow using repeated serum bilirubin measurements from 312 patients. The project includes data-integrity auditing, patient-specific random intercepts and slopes, quadratic time modeling, adjusted trajectory prediction, residual diagnostics, and focused sensitivity analyses.
+
+* [View the GitHub repository](https://github.com/drimransarmad/longitudinal-bilirubin-mixed-effects-python)
+* [View the Jupyter Notebook](https://github.com/drimransarmad/longitudinal-bilirubin-mixed-effects-python/blob/main/notebooks/Longitudinal_Bilirubin_Mixed_Effects_Project.ipynb)
+
 ## Professional Links
 
 * [Website](https://drimransarmad.com)
