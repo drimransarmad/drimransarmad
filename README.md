@@ -58,6 +58,13 @@ A reproducible longitudinal clinical modeling workflow using repeated serum bili
 * [View the GitHub repository](https://github.com/drimransarmad/longitudinal-bilirubin-mixed-effects-python)
 * [View the Jupyter Notebook](https://github.com/drimransarmad/longitudinal-bilirubin-mixed-effects-python/blob/main/notebooks/Longitudinal_Bilirubin_Mixed_Effects_Project.ipynb)
 
+## Bayesian Evidence Synthesis for Comparative Treatment Effectiveness
+
+A reproducible Bayesian hierarchical evidence-synthesis workflow using mortality outcomes from 22 randomized clinical trials comparing beta-blocker therapy with control after myocardial infarction. The project includes conventional meta-analysis benchmarks, arm-level binomial modeling, prior-predictive and posterior-predictive checks, convergence diagnostics, between-study heterogeneity assessment, partially pooled trial-specific effects, future comparable-trial prediction, and prior-sensitivity analysis.
+
+* [View the GitHub repository](https://github.com/drimransarmad/bayesian-evidence-synthesis-treatment-effectiveness-python)
+* [View the fully rendered Jupyter Notebook](https://nbviewer.org/github/drimransarmad/bayesian-evidence-synthesis-treatment-effectiveness-python/blob/main/notebooks/Bayesian_Evidence_Synthesis_Treatment_Effectiveness.ipynb)
+
 ## Professional Links
 
 * [Website](https://drimransarmad.com)
